@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lkwambui
-- 👀 I’m interested in blockchain technology and coding at large
-- 🌱 I’m currently learning how to code with react though I am familiar with programming languages like JavaScript,C++,C,Visual Basic,PHP and Boostrap framework
-- 💞️ I’m looking to collaborate on blockchain technology
+- 👀 I’m interested in front end development coding at large
+- 🌱 I’m currently learning how to code with react though I am familiar with programming languages like JavaScript,C++,C,Visual Basic,html, css and Boostrap framework
+- 💞️ I’m looking forward to creating awesome application designs.
 
 
 <!---
