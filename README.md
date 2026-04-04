@@ -1,5 +1,5 @@
 <!-- HERO HEADER -->
-<h1 align="center">Hi 👋, I'm Lucy Kamau</h1>
+<h1 align="center">Hi, I'm Lucy Kamau</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | MERN Stack Developer</h3>
 
 <p align="center">
@@ -12,17 +12,17 @@
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
-- 💻 Frontend Developer passionate about building **modern, responsive web applications**
-- ⚙️ Experienced with the **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🎨 UI/UX Designer focused on **clean, user-centered interfaces**
-- 🚀 I enjoy transforming ideas into **interactive digital experiences**
-- 🌱 Currently expanding my knowledge in **advanced React and backend integrations**
+- Frontend Developer passionate about building **modern, responsive web applications**
+- Experienced with the **MERN Stack (MongoDB, Express, React, Node.js)**
+- UI/UX Designer focused on **clean, user-centered interfaces**
+- I enjoy transforming ideas into **interactive digital experiences**
+- Currently expanding my knowledge in **advanced React and backend integrations**
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### MERN Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,22 +50,7 @@
 ---
 
 
-# 📌 Featured Projects
-
-### 🌐 Portfolio Website
-🔗 https://lucykamau.netlify.app/
-
-A personal website showcasing my projects, UI/UX work, and development skills.
-
-### 🧾 Vournal
-A journaling platform concept where users can create written or video journals and control privacy levels.
-
-### 🛒 Order With Ringo
-Client project focused on designing and building a smooth ordering interface.
-
----
-
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -83,4 +68,4 @@ Client project focused on designing and building a smooth ordering interface.
 
 </p>
 
-⭐ *Thanks for visiting my profile. Feel free to explore my repositories and connect with me.*
+*Thanks for visiting my profile. Feel free to explore my repositories and connect with me.*
