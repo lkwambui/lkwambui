@@ -49,21 +49,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lkwambui&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkwambui&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 📌 Featured Projects
 
@@ -97,13 +82,5 @@ Client project focused on designing and building a smooth ordering interface.
 </a>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/lkwambui/lkwambui/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ *Thanks for visiting my profile. Feel free to explore my repositories and connect with me.*
