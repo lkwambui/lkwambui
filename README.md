@@ -1,82 +1,186 @@
-<h1 align="center">Hi, I'm Lucy Kamau 👋</h1>
-<h3 align="center">Full-Stack Developer · UI/UX Designer · MERN & Next.js Specialist</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=005B96&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%26+Next.js+Specialist;UI%2FUX+Designer;M-Pesa+Integration+Expert;Building+Production-Ready+Apps" />
-</p>
+# LUCY KAMAU
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lkwambui&label=Profile%20views&color=005B96&style=flat" />
-</p>
+**Full-Stack Developer <span style="color:#0d9488;">·</span> UI/UX Designer <span style="color:#0d9488;">·</span> MERN &amp; Next.js Specialist**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=500&color=0D9488&center=true&vCenter=true&width=580&lines=Full-Stack+Developer;MERN+%26Next.js+Specialist;UI%2FUX+Designer;M-Pesa+Integration+Expert;Building+Production-Ready+Apps" alt="Typing SVG" />
 
-### 👩‍💻 About Me
+<span style="display:inline-flex;align-items:center;gap:8px;border:1px solid #ccfbf1;background:#f0fdfa;border-radius:999px;padding:6px 16px;font-size:13px;color:#115e59;">
+  <svg viewBox="0 0 8 8" width="8" height="8"><circle cx="4" cy="4" r="4" fill="#10b981"/></svg>
+  Open to new opportunities
+</span>
 
-I build **production-ready web applications** from concept to deployment — spanning fintech, real-time gaming, community platforms, and inventory management. I bring designs to life with clean APIs, polished UIs, and integrations that matter in the East African market (M-Pesa, mobile money, real-time comms).
+<br/>
 
-- 🔭 **Recent work:** [mcee-chelaa](https://github.com/lkwambui/mcee-chelaa) — Next.js booking site with SMTP API | [aviatorfrontend](https://github.com/lkwambui/aviatorfrontend) — React 19 + Three.js crash game
-- 🌱 **Currently:** Deepening my stack with TypeScript, Next.js App Router, PostgreSQL + Prisma
-- 💬 **Ask me about:** MERN stack, M-Pesa Daraja API, React + Tailwind, Figma-to-code workflows
-- 📫 **Reach me:** [lucykamau949@gmail.com](mailto:lucykamau949@gmail.com)
-- 🌐 **Portfolio:** [lucykamau.netlify.app](https://lucykamau.netlify.app/)
-- 🔗 **LinkedIn:** [linkedin.com/in/lucy-kamau-87bb75209](https://www.linkedin.com/in/lucy-kamau-87bb75209)
+<img src="https://komarev.com/ghpvc/?username=lkwambui&label=Profile%20views&color=0D9488&style=flat" alt="Profile views" />
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-**Frontend**<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<hr style="border:none;border-top:1px solid #e2e8f0;max-width:760px;margin:28px auto;" />
 
-**Backend & Database**<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<h2 align="left">
+  <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v2"/></svg>
+  <span style="text-transform:uppercase;letter-spacing:.12em;font-size:16px;color:#0f172a;">About</span>
+</h2>
 
-**Payments & Real-Time**<br>
-![M-Pesa Daraja](https://img.shields.io/badge/M--Pesa_Daraja_API-4CAF50?style=for-the-badge&logo=&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+I build **production-ready web applications** from concept to deployment, spanning fintech, real-time gaming, community platforms, and inventory management. I turn designs into polished, reliable products with clean APIs and integrations that matter in the East African market, M-Pesa and mobile money included.
 
-**Design & Tools**<br>
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table>
+  <tr>
+    <td width="46" align="center"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8"/></svg></td>
+    <td><b>Recent work</b>: <a href="https://github.com/lkwambui/mcee-chelaa">mcee-chelaa</a> (Next.js booking site with SMTP email) and <a href="https://github.com/lkwambui/aviatorfrontend">aviatorfrontend</a> (React 19 + Three.js crash game)</td>
+  </tr>
+  <tr>
+    <td width="46" align="center"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></td>
+    <td><b>Currently</b>: expanding my stack with TypeScript, Next.js App Router, PostgreSQL, and Prisma</td>
+  </tr>
+  <tr>
+    <td width="46" align="center"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></td>
+    <td><b>Based in</b>: Kenya, building products for the East African market</td>
+  </tr>
+  <tr>
+    <td width="46" align="center"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></td>
+    <td><b>Ask me about</b>: MERN stack, M-Pesa Daraja API, React + Tailwind, Figma-to-code workflows</td>
+  </tr>
+  <tr>
+    <td width="46" align="center"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="22,6 12,13 2,6"/></svg></td>
+    <td><b>Reach me</b>: <a href="mailto:lucykamau949@gmail.com">lucykamau949@gmail.com</a></td>
+  </tr>
+</table>
 
----
+<hr style="border:none;border-top:1px solid #e2e8f0;max-width:760px;margin:28px auto;" />
 
-### 📌 Featured Projects
+<h2 align="left">
+  <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+  <span style="text-transform:uppercase;letter-spacing:.12em;font-size:16px;color:#0f172a;">Tech Stack</span>
+</h2>
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**mcee-chelaa**](https://github.com/lkwambui/mcee-chelaa) | Booking website for a professional MC — SMTP email, rate limiting, honeypot spam filter | Next.js 16, TypeScript, Tailwind, Zod |
-| [**aviatorfrontend**](https://github.com/lkwambui/aviatorfrontend) | Real-time multiplayer crash game with 3D animation, betting system, and M-Pesa payouts | React 19, Three.js, Vite 7, Tailwind |
-| [**hdf**](https://github.com/lkwambui/hdf) | Community leadership platform — WebRTC video meetings, donations, member management | Next.js, Express, PostgreSQL, Socket.io |
-| [**airtime-platform**](https://github.com/lkwambui/airtime-platform) | Admin airtime sales platform — M-Pesa & AutoBundles API, Android device auth | React + Vite, Express, PostgreSQL, JWT |
-| [**StockEase**](https://github.com/lkwambui/StockEase) | Full e-commerce inventory system — sales analytics, low-stock alerts, real-time updates (BIT capstone) | MERN, Redux Toolkit, Socket.IO, Recharts |
-| [**Lucy-Kamau-Designer-Dev**](https://github.com/lkwambui/Lucy-Kamau-Designer-Dev) | Professional portfolio — services, pricing, projects, and smooth scroll navigation | React, Vite, Tailwind, Framer Motion |
+<details open>
+  <summary style="color:#0d9488;font-weight:600;letter-spacing:.08em;">Frontend</summary>
 
----
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%230055FF?style=flat&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000?style=flat&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 
-### 📈 GitHub Stats
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lkwambui&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkwambui&layout=compact&hide_border=true" height="150" />
-</p>
+<details>
+  <summary style="color:#0d9488;font-weight:600;letter-spacing:.08em;">Backend &amp; Database</summary>
 
----
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404D59?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748?style=flat&logo=prisma&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101?style=flat&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-%23333333?style=flat&logo=webrtc&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-%233E67B1?style=flat&logo=zod&logoColor=white)
 
-*Thanks for stopping by. Feel free to explore my repos and connect!*
+</details>
+
+<details>
+  <summary style="color:#0d9488;font-weight:600;letter-spacing:.08em;">Payments</summary>
+
+![M-Pesa Daraja API](https://img.shields.io/badge/M--Pesa%20Daraja%20API-%234CAF50?style=flat&logo=rocket&logoColor=white)
+![AutoBundles API](https://img.shields.io/badge/AutoBundles%20API-%230D9488?style=flat)
+
+</details>
+
+<details>
+  <summary style="color:#0d9488;font-weight:600;letter-spacing:.08em;">Design &amp; Tools</summary>
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat&logo=githubactions&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88?style=flat&logo=redux&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-%2300A8E8?style=flat&logo=react&logoColor=white)
+
+</details>
+
+<hr style="border:none;border-top:1px solid #e2e8f0;max-width:760px;margin:28px auto;" />
+
+<h2 align="left">
+  <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+  <span style="text-transform:uppercase;letter-spacing:.12em;font-size:16px;color:#0f172a;">Featured Projects</span>
+</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/mcee-chelaa" style="color:#0d9488;text-decoration:none;"><b>mcee-chelaa</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Booking site for a professional MC with SMTP email and spam protection.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">Next.js 16 · TypeScript · Tailwind · Zod</span>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/aviatorfrontend" style="color:#0d9488;text-decoration:none;"><b>aviatorfrontend</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Real-time multiplayer crash game with 3D animation and M-Pesa payouts.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">React 19 · Three.js · Vite · Tailwind</span>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/hdf" style="color:#0d9488;text-decoration:none;"><b>hdf</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Community leadership platform with WebRTC video meetings and donations.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">Next.js · Express · PostgreSQL · Socket.io</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/airtime-platform" style="color:#0d9488;text-decoration:none;"><b>airtime-platform</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Admin airtime sales platform powered by M-Pesa and AutoBundles APIs.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">React + Vite · Express · PostgreSQL · JWT</span>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/StockEase" style="color:#0d9488;text-decoration:none;"><b>StockEase</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Inventory system with sales analytics and real-time low-stock alerts.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">MERN · Redux Toolkit · Socket.IO · Recharts</span>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/Lucy-Kamau-Designer-Dev" style="color:#0d9488;text-decoration:none;"><b>Lucy-Kamau-Designer-Dev</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Professional portfolio with services, pricing, and smooth navigation.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">React · Vite · Tailwind · Framer Motion</span>
+    </td>
+  </tr>
+</table>
+
+<hr style="border:none;border-top:1px solid #e2e8f0;max-width:760px;margin:28px auto;" />
+
+<h2 align="left">
+  <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/></svg>
+  <span style="text-transform:uppercase;letter-spacing:.12em;font-size:16px;color:#0f172a;">GitHub Stats</span>
+</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lkwambui&show_icons=true&theme=transparent&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=334155" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkwambui&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&text_color=334155" height="150" alt="Top languages" />
+
+</div>
+
+<br/>
+
+<hr style="border:none;border-top:1px solid #e2e8f0;max-width:760px;margin:28px auto;" />
+
+<div align="center">
+
+<a href="https://github.com/lkwambui" title="GitHub"><svg viewBox="0 0 24 24" width="22" height="22" fill="#0d9488"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lucy-kamau-87bb75209" title="LinkedIn"><svg viewBox="0 0 24 24" width="22" height="22" fill="#0d9488"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.065 2.065 0 1 1 0-4.13 2.065 2.065 0 0 1 0 4.13zM7.119 20.452H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/></svg></a>
+&nbsp;&nbsp;
+<a href="https://lucykamau.netlify.app/" title="Portfolio"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></a>
+&nbsp;&nbsp;
+<a href="mailto:lucykamau949@gmail.com" title="Email"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="22,6 12,13 2,6"/></svg></a>
+
+</div>
+
+<p align="center" style="color:#94a3b8;font-size:13px;">Crafted for the web by Lucy Kamau. Thanks for stopping by.</p>
