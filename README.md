@@ -58,8 +58,7 @@ I build **production-ready web applications** from concept to deployment, spanni
   <span style="text-transform:uppercase;letter-spacing:.12em;font-size:16px;color:#0f172a;">Tech Stack</span>
 </h2>
 
-<details open>
-  <summary style="color:#0d9488;font-weight:600;letter-spacing:.08em;">Frontend</summary>
+<h3 style="color:#0d9488;font-weight:600;letter-spacing:.08em;margin-bottom:8px;">Frontend</h3>
 
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -72,10 +71,7 @@ I build **production-ready web applications** from concept to deployment, spanni
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 
-</details>
-
-<details>
-  <summary style="color:#0d9488;font-weight:600;letter-spacing:.08em;">Backend &amp; Database</summary>
+<h3 style="color:#0d9488;font-weight:600;letter-spacing:.08em;margin-bottom:8px;">Backend &amp; Database</h3>
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23404D59?style=flat&logo=express&logoColor=white)
@@ -87,18 +83,12 @@ I build **production-ready web applications** from concept to deployment, spanni
 ![JWT](https://img.shields.io/badge/JWT-%23000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-%233E67B1?style=flat&logo=zod&logoColor=white)
 
-</details>
-
-<details>
-  <summary style="color:#0d9488;font-weight:600;letter-spacing:.08em;">Payments</summary>
+<h3 style="color:#0d9488;font-weight:600;letter-spacing:.08em;margin-bottom:8px;">Payments</h3>
 
 ![M-Pesa Daraja API](https://img.shields.io/badge/M--Pesa%20Daraja%20API-%234CAF50?style=flat&logo=rocket&logoColor=white)
 ![AutoBundles API](https://img.shields.io/badge/AutoBundles%20API-%230D9488?style=flat)
 
-</details>
-
-<details>
-  <summary style="color:#0d9488;font-weight:600;letter-spacing:.08em;">Design &amp; Tools</summary>
+<h3 style="color:#0d9488;font-weight:600;letter-spacing:.08em;margin-bottom:8px;">Design &amp; Tools</h3>
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
@@ -106,8 +96,6 @@ I build **production-ready web applications** from concept to deployment, spanni
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88?style=flat&logo=redux&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-%2300A8E8?style=flat&logo=react&logoColor=white)
-
-</details>
 
 <hr style="border:none;border-top:1px solid #e2e8f0;max-width:760px;margin:28px auto;" />
 
