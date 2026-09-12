@@ -26,7 +26,7 @@
     </td>
     <td align="center" style="padding:18px 10px;">
       <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/></svg><br/>
-      <strong style="font-size:22px;color:#0f172a;">6+</strong><br/>
+      <strong style="font-size:22px;color:#0f172a;">8+</strong><br/>
       <span style="font-size:13px;color:#64748b;">Products shipped</span>
     </td>
     <td align="center" style="padding:18px 10px;">
@@ -67,7 +67,7 @@ I'm a founder and full-stack developer who turns ideas into **production-ready w
   </tr>
   <tr>
     <td width="46" align="center"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8"/></svg></td>
-    <td><b>Recent work</b>: <a href="https://github.com/lkwambui/mcee-chelaa">mcee-chelaa</a> (Next.js booking site, SMTP email) and <a href="https://github.com/lkwambui/aviatorfrontend">aviatorfrontend</a> (real-time crash game with M-Pesa payouts)</td>
+    <td><b>Recent work</b>: live launches <a href="https://terrencehill.com">terrencehill.com</a> (headless WordPress author site) and <a href="https://perpetuachomba.com">perpetuachomba.com</a> (counselling platform with M-Pesa booking &amp; paid member videos), plus a growing portfolio of personal projects</td>
   </tr>
   <tr>
     <td width="46" align="center"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></td>
@@ -176,9 +176,26 @@ I'm a founder and full-stack developer who turns ideas into **production-ready w
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/terrence-hill" style="color:#0d9488;text-decoration:none;"><b>terrence-hill</b></a> <a href="https://terrencehill.com" style="color:#94a3b8;text-decoration:none;font-size:12px;">· live ↗</a><br/>
+      <span style="font-size:13px;color:#64748b;">Author website — writing, books &amp; gallery, powered by headless WordPress CMS.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">React 19 · Vite · TypeScript · Tailwind · WP REST API</span>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/perpetua-chomba" style="color:#0d9488;text-decoration:none;"><b>perpetua-chomba</b></a> <a href="https://perpetuachomba.com" style="color:#94a3b8;text-decoration:none;font-size:12px;">· live ↗</a><br/>
+      <span style="font-size:13px;color:#64748b;">Counselling psychologist studio — services, journal, M-Pesa pay-first booking &amp; member videos.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">React 19 · Vite · TypeScript · Tailwind · WordPress</span>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://github.com/lkwambui/mcee-chelaa" style="color:#0d9488;text-decoration:none;"><b>mcee-chelaa</b></a><br/>
       <span style="font-size:13px;color:#64748b;">Booking site for a professional MC with SMTP email and spam protection.</span><br/>
       <span style="font-size:12px;color:#94a3b8;">Next.js 16 · TypeScript · Tailwind · Zod</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/alzahra-abaya" style="color:#0d9488;text-decoration:none;"><b>alzahra-abaya</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Bilingual EN/AR (LTR/RTL) e-commerce storefront — catalog, cart &amp; checkout.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">React 19 · Vite · Tailwind 4 · RTL</span>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/lkwambui/aviatorfrontend" style="color:#0d9488;text-decoration:none;"><b>aviatorfrontend</b></a><br/>
@@ -193,6 +210,11 @@ I'm a founder and full-stack developer who turns ideas into **production-ready w
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/ubah-fragrance" style="color:#0d9488;text-decoration:none;"><b>ubah-fragrance</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Modern luxury fragrance house — gender-inclusive oud, rose, amber &amp; wood collections.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">React · Vite · Tailwind 4</span>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://github.com/lkwambui/airtime-platform" style="color:#0d9488;text-decoration:none;"><b>airtime-platform</b></a><br/>
       <span style="font-size:13px;color:#64748b;">Airtime sales platform powered by M-Pesa and AutoBundles APIs.</span><br/>
       <span style="font-size:12px;color:#94a3b8;">React + Vite · Express · PostgreSQL · JWT</span>
@@ -202,10 +224,22 @@ I'm a founder and full-stack developer who turns ideas into **production-ready w
       <span style="font-size:13px;color:#64748b;">Inventory system with sales analytics and real-time low-stock alerts.</span><br/>
       <span style="font-size:12px;color:#94a3b8;">MERN · Redux Toolkit · Socket.IO · Recharts</span>
     </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/createhubkenya" style="color:#0d9488;text-decoration:none;"><b>createhubkenya</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Digital marketplace for Kenyan content creators — sell products, receive tips.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">Next.js 15 · Prisma · PostgreSQL · M-Pesa</span>
+    </td>
     <td width="33%" valign="top">
       <a href="https://github.com/lkwambui/Lucy-Kamau-Designer-Dev" style="color:#0d9488;text-decoration:none;"><b>Lucy-Kamau-Designer-Dev</b></a><br/>
       <span style="font-size:13px;color:#64748b;">Professional portfolio with services, pricing, and smooth navigation.</span><br/>
       <span style="font-size:12px;color:#94a3b8;">React · Vite · Tailwind · Framer Motion</span>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/lkwambui/codesolveafrica-new" style="color:#0d9488;text-decoration:none;"><b>codesolveafrica</b></a><br/>
+      <span style="font-size:13px;color:#64748b;">Full-stack tech solutions platform — portfolio, project ordering &amp; admin dashboards.</span><br/>
+      <span style="font-size:12px;color:#94a3b8;">React · Tailwind · Express · MongoDB</span>
     </td>
   </tr>
 </table>
