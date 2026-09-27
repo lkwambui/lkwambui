@@ -17,7 +17,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/lucy-kamau-87bb75209" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://logicorex.co.ke" title="Website"><img src="https://img.shields.io/badge/Website-%230d9488?style=flat&logo=googlechrome&logoColor=white" alt="logicorex.co.ke" /></a>
+<a href="https://lucykamau.logicorex.co.ke" title="Website"><img src="https://img.shields.io/badge/Website-%230d9488?style=flat&logo=googlechrome&logoColor=white" alt="logicorex.co.ke" /></a>
 &nbsp;
 <a href="mailto:lucykamau949@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-lucykamau949%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email lucykamau949@gmail.com" /></a>
 &nbsp;
@@ -66,9 +66,9 @@
     Let's talk about your project
   </a>
   &nbsp;&nbsp;
-  <a href="https://logicorex.co.ke" style="display:inline-flex;align-items:center;gap:8px;border:1px solid #0d9488;color:#0d9488;border-radius:8px;padding:10px 22px;font-weight:600;font-size:14px;text-decoration:none;">
+  <a href="https://lucykamau.logicorex.co.ke" style="display:inline-flex;align-items:center;gap:8px;border:1px solid #0d9488;color:#0d9488;border-radius:8px;padding:10px 22px;font-weight:600;font-size:14px;text-decoration:none;">
     <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
-    logicorex.co.ke
+    lucykamau.logicorex.co.ke
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucy-kamau-87bb75209" style="display:inline-flex;align-items:center;gap:8px;border:1px solid #0d9488;color:#0d9488;border-radius:8px;padding:10px 22px;font-weight:600;font-size:14px;text-decoration:none;">
@@ -431,7 +431,7 @@ Third-party cards can rate-limit; if one fails, swap the host back to its canoni
   </tr>
   <tr>
     <td width="46" align="center"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="22,6 12,13 2,6"/></svg></td>
-    <td><b>Start a project</b>: <a href="mailto:lucykamau949@gmail.com?subject=Project%20enquiry%20—%20lkwambui">lucykamau949@gmail.com</a> · <a href="https://logicorex.co.ke">logicorex.co.ke</a></td>
+    <td><b>Start a project</b>: <a href="mailto:lucykamau949@gmail.com?subject=Project%20enquiry%20—%20lkwambui">lucykamau949@gmail.com</a> · <a href="https://lucykamau.logicorex.co.ke">lucykamau.logicorex.co.ke</a></td>
   </tr>
 </table>
 
@@ -467,7 +467,7 @@ Third-party cards can rate-limit; if one fails, swap the host back to its canoni
   &nbsp;&nbsp;
   <a href="https://www.threads.com/@lucy_kamau_designer_and_dev" title="Threads"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2c2.7 0 4.6 1.4 5.5 4.1a8.2 8.2 0 0 1 .4 3.4c-.3 3.4-2.4 5.5-5.4 5.5-1.9 0-3.4-1-4.1-2.5"/><path d="M12 22c-2.7 0-4.6-1.4-5.5-4.1a8.2 8.2 0 0 1-.4-3.4C6.4 11.1 8.5 9 11.5 9c1.9 0 3.4 1 4.1 2.5"/><line x1="12" y1="2" x2="12" y2="22"/></svg></a>
   &nbsp;&nbsp;
-  <a href="https://logicorex.co.ke" title="Logicorex"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></a>
+  <a href="https://lucykamau.logicorex.co.ke" title="Website"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></a>
   &nbsp;&nbsp;
   <a href="mailto:lucykamau949@gmail.com" title="Email"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0d9488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="22,6 12,13 2,6"/></svg></a>
 
